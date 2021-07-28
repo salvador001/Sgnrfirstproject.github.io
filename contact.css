@@ -1,0 +1,18 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Indie Flower', cursive;
+        }
+        
+        header {
+            padding: 12px 30px;
+            border-radius: 8px;
+            width: 100%;
+            outline: darksalmon;
+            height: 100vh;
+            background-image: url("../sgnr/image/cc.jpg");
+            align-items: center;
+            justify-content: center;
+            text-decoration-style: double;
+        }

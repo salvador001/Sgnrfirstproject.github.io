@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+header h1 {
+    padding: 30px 20px;
+    width: 200%;
+    height: 100vh;
+    text-emphasis-color: black;
+    background-blend-mode: lighten;
+    background: url('../image/b.jpg.jpg');
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: blanchedalmond;
+    text-decoration-color: blanchedalmond;
+}
